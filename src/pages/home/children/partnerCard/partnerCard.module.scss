@@ -1,0 +1,29 @@
+.outerBox {
+  padding: 50px 0 20px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.itemBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  .smallFont {
+    transform: scale(0.7);
+    margin-left: -15px;
+  }
+  .imageItem {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+.subTitleBox {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+}
+.partnerIocn {
+  width: 60px;
+}

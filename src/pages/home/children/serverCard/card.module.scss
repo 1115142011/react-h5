@@ -1,0 +1,20 @@
+.outerBox {
+  padding: 40px 0 20px;
+  position: relative;
+  border-radius: 10px;
+}
+.itemBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imageItem {
+  width: 100px;
+  height: 65px;
+}
+.subTitleBox {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+}

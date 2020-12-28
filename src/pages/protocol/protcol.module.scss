@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  font-size: 12px;
+  flex-direction: column;
+  padding: 20px;
+}
+.lineItem {
+  margin-top: 5px;
+  text-indent: 1.5em;
+}
+.title {
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.subtitle {
+  margin-top: 5px;
+  font-weight: bold;
+}
+.nowrap {
+  white-space: nowrap;
+  color: rgba(77, 93, 202, 1);
+  text-decoration: none;
+}
